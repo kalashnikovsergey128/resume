@@ -1,0 +1,66 @@
+.cont{
+    height: 842px;
+    width: 595px;
+    background-image: url(./images/About\ ME.png);
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Avenir Next';
+    
+}
+.String{
+    color: white;  
+    padding-top: 350px;
+    font-size: 18px;
+    text-align: center;
+    
+}
+.yellow{
+    color: rgb(255, 234, 0);
+    width: 150px;
+    height: 30px;
+    position: relative;
+    height: 16px;
+    font-size: 11px;
+    padding-left: 34px;
+}
+.white{
+    color: white;
+    width: 150px;
+    height: 30px;
+    position: relative;
+    height: 9px;
+    font-size: 12px;
+    padding-left: 34px;
+}
+.info{
+    display: block;
+    width: 595px;
+    height: 500px;
+}
+.p1{
+    display: flex;
+    padding-top: 220px;
+}
+.p2{
+    padding-top: 60px;
+    display: flex;
+}
+.line1{
+    background-image: url(./images/Line\ 3.png);
+    width: 595px;
+    height: 2px;
+    margin-top: 20px;
+}
+@font-face {
+    font-family: 'Avenir Next';
+    src: url(./fonts/avenirnextcyr-light.ttf);
+}
+.pages{
+    display: flex;
+    color: white;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.SecondPage{
+    margin-left: 415px;
+}

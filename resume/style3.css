@@ -1,0 +1,97 @@
+.cont {
+    height: 842px;
+    width: 595px;
+    background-image: url(./images/Thnx!.png);
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.thnx {
+    font-size: 130px;
+    color: rgb(255, 234, 0);
+    font-family: 'Kaushan Script';
+    padding-left: 100px;
+    padding-top: 315px;
+    margin-left: 44px;
+}
+
+.grey {
+    color: rgb(255, 255, 255, 26%);
+}
+
+.white {
+    color: white;
+}
+
+.email {
+    margin-top: 30px;
+    font-family: 'Avenir Next';
+    font-size: 12px;
+    margin-left: 44px;
+}
+
+.phone {
+    margin-top: 30px;
+    font-size: 12px;
+    font-family: 'Avenir Next';
+    margin-left: 44px;
+}
+
+.emailName {
+    color: rgb(255, 234, 0);
+}
+
+.phoneName {
+    color: rgb(255, 234, 0);
+}
+
+.string {
+    padding-top: 100px;
+    color: rgb(255, 255, 255, 26%);
+    font-family: 'Avenir Next';
+    margin-left: 44px;
+    font-size: 13px;
+    
+}
+
+.string1 {
+    color: rgb(255, 255, 255, 26%);
+    font-family: 'Avenir Next';
+    margin-left: 44px;
+    font-size: 13px;
+}
+
+.line1 {
+    background-image: url(./images/Line\ 3.png);
+    width: 595px;
+    height: 2px;
+    margin-top: 20px;
+}
+
+.emailString {
+    display: flex;
+}
+
+.phoneString {
+    display: flex;
+}
+
+.firstPage {
+    display: flex;
+    color: white;
+    margin-top: 16px;
+    font-size: 16px;
+    font-family: 'Avenir Next';
+    height: 100px;
+    width: 100px;
+    margin-left: 10px;
+}
+.whitePhone{
+    margin-left: 3px;
+    color: white;
+}
+@font-face {
+    font-family: 'Avenir Next';
+    src: url(./fonts/avenirnextcyr-light.ttf);
+}
