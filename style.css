@@ -1,0 +1,140 @@
+.cont {
+    height: 842px;
+    width: 595px;
+    background-image: url(./images/Persaonal\ Info.png);
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 44px;
+}
+
+.pages {
+    font-family: 'Fredoka One';
+    color: white;
+}
+
+.name {
+    padding-top: 168px;
+    height: 130px;
+    width: 183px;
+    color: rgb(255, 234, 0);
+    font-family: 'Kaushan Script';
+    font-size: 50px;
+}
+
+.work {
+    font-family: 'Fredoka One';
+    height: 19px;
+    width: 300px;
+    font-size: auto;
+    padding-top: 10px;
+    color: rgb(255, 255, 255, 26%);
+}
+
+.aboutMe {
+    margin-top: 120px;
+    margin-bottom: 10px;
+}
+
+.experience {
+    margin-bottom: 10px;
+}
+
+.line {
+    height: 45px;
+    width: 2px;
+    background-image: url(./images/Line\ 5.png);
+}
+
+.poitinaBasic {
+    display: flex;
+}
+
+.poitina {
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.highVoice {
+    margin-left: 20px;
+}
+
+.cover {
+    margin-top: 10px;
+}
+.emailName {
+    color: rgb(255, 234, 0);
+    
+}
+
+.phoneName {
+    color: rgb(255, 234, 0);
+    
+}
+
+.emailString {
+    font-size: 12px;
+    display: flex;
+}
+
+.emailAndPhone {
+    display: flex;
+    margin-top: 120px;
+    font-family: 'Avenir Next';
+}
+
+.phoneString {
+    font-size: 15px;
+    display: flex;
+    font-size: 11px;
+}
+
+.greyPhone {
+    color: rgb(255, 255, 255, 26%);
+}
+
+.greyEmail {
+    color: rgb(255, 255, 255, 26%);
+}
+
+.whiteEmail {
+    color: white;
+}
+.email{
+    font-size: 12px;
+}
+.whitePhone {
+    color: white;
+    margin-left: 3px;
+}
+
+.phone {
+    margin-left: 70px;
+    font-size: 12px;
+}
+
+.line1 {
+    background-image: url(./images/Line\ 3.png);
+    width: 595px;
+    height: 2px;
+    margin-top: 15px;
+}
+
+.nextPage {
+    display: flex;
+    color: white;
+    font-family: 'Avenir Next';
+    margin-top: 20px;
+    font-size: 16px;
+    margin-left: 489px;
+    text-decoration: none;
+}
+
+.arrow {
+    margin-left: 5px;
+    text-decoration: none;
+}
+
+@font-face {
+    font-family: 'Avenir Next';
+    src: url(./fonts/avenirnextcyr-light.ttf);
+}
